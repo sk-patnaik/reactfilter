@@ -1,0 +1,3 @@
+export const SAMPLES_LOADING = "SAMPLES_LOADING";
+export const SAMPLES_FAILED = "SAMPLES_FAILED";
+export const ADD_SAMPLES = "ADD_SAMPLES";
